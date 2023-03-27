@@ -1,2 +1,1 @@
-# TINDOGS
-I have made this web site  using HTML, Bootstrap ,css 
+TinDog Starting Files
